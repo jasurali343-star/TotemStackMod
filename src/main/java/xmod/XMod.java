@@ -24,7 +24,7 @@ public class XMod {
                     );
 
             if (totem != null) {
-                totem.setMaxStackSize(64);
+                
             }
         }
     }
